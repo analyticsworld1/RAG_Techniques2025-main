@@ -1,11 +1,62 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashokkumili/)]
 
+## I'm an Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner
 
+* 🔭 A **Lead AI ML Solution Architect)** at [HCLTECH](https://www.hcltech.com/)
+
+  - 🌱 Engaged in bringing top notch AI ML Business applications in Domains (E-commerce, Health science, Fintech).
+
+  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
+  
+  - 👯 I’m a collaborator in `keras`, `tensorflow` and looking for more collaboration.
+  
+  - 🥅 2025 Goals: Deliver More solutions across Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+
+  - ⚡ Fun fact: I love to code.
 
 # Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems 🚀
 
 Welcome to one of the most comprehensive and dynamic collections of Retrieval-Augmented Generation (RAG) tutorials available today. This repository serves as a hub for cutting-edge techniques to enhance the accuracy, efficiency, and contextual richness of RAG systems.
+
+
+
+   ## ⚡ Technologies I use 
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <br /> FastAPI
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+</table>
+</div>
 
 ## 📫 Stay Updated!
 
@@ -18,13 +69,8 @@ Welcome to one of the most comprehensive and dynamic collections of Retrieval-Au
 </tr>
 </table>
 
-[![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
-
 *Join thousands of AI enthusiasts getting unique cutting-edge insights and free tutorials!*
 </div>
-
-[![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
-
 
 ## Introduction
 
@@ -32,21 +78,6 @@ Retrieval-augmented generation (RAG) is revolutionizing how we combine informati
 
 Our goal is to provide a valuable resource for researchers and practitioners looking to push the boundaries of what's possible with RAG. By fostering a collaborative environment, we aim to accelerate innovation in this exciting field.
 
-## Related Projects
-
-🖋️ Check out my  **[Prompt Engineering Techniques guide](https://github.com/NirDiamant/Prompt_Engineering)** for a comprehensive collection of prompting strategies, from basic concepts to advanced techniques, enhancing your ability to interact effectively with AI language models.
-
-🤖 Explore my **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** to discover a variety of AI agent implementations and tutorials, showcasing how different AI technologies can be combined to create powerful, interactive systems.
-
-## A Community-Driven Knowledge Hub
-
-**This repository grows stronger with your contributions!** Join our vibrant Discord community — the central hub for shaping and advancing this project together 🤝
-
-**[RAG Techniques Discord Community](https://discord.gg/cA6Aa4uyDX)**
-
-Whether you're an expert or just starting, your insights can shape the future of RAG. Join us to propose ideas, get feedback, and collaborate on innovative techniques. Please refer to our **[CONTRIBUTING.md](https://github.com/NirDiamant/RAG_Techniques/blob/main/CONTRIBUTING.md)** file for contribution guidelines. Let's advance RAG technology together!
-
-🔗 For discussions on GenAI, RAG, or custom agents, or to explore knowledge-sharing opportunities, feel free to **[connect on LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/)**.
 
 ## Key Features
 

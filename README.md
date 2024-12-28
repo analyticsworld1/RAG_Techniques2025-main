@@ -65,7 +65,7 @@ Welcome to one of the most comprehensive and dynamic collections of Retrieval-Au
 <p align="left">
 <a href="https://linkedin.com/in/ashokkumili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashokkumili" height="30" width="40" /></a>
 <a href="https://medium.com/@ashokbabu.architect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashokbabu.architect" height="30" width="40" /></a>
-<a href="/https://www.tiksys.ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.tiksys.ai/tiksys-blog" height="30" width="40" /></a>
+<a href="/https://www.tiksys.ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.tiksys.ai/" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:

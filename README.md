@@ -1,15 +1,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nir-diamant-759323134/)
-[![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
-[![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cA6Aa4uyDX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashokkumili/)]
 
-
-> 🌟 **Support This Project:** Your sponsorship fuels innovation in RAG technologies. **[Become a sponsor](https://github.com/sponsors/NirDiamant)** to help maintain and expand this valuable resource!
 
 
 # Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems 🚀
 
-Welcome to one of the most comprehensive and dynamic collections of Retrieval-Augmented Generation (RAG) tutorials available today. This repository serves as a hub for cutting-edge techniques aimed at enhancing the accuracy, efficiency, and contextual richness of RAG systems.
+Welcome to one of the most comprehensive and dynamic collections of Retrieval-Augmented Generation (RAG) tutorials available today. This repository serves as a hub for cutting-edge techniques to enhance the accuracy, efficiency, and contextual richness of RAG systems.
 
 ## 📫 Stay Updated!
 
@@ -24,7 +20,7 @@ Welcome to one of the most comprehensive and dynamic collections of Retrieval-Au
 
 [![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
-*Join thousands of AI enthusiasts getting unique cutting edge insights and free tutorials!*
+*Join thousands of AI enthusiasts getting unique cutting-edge insights and free tutorials!*
 </div>
 
 [![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
@@ -32,7 +28,7 @@ Welcome to one of the most comprehensive and dynamic collections of Retrieval-Au
 
 ## Introduction
 
-Retrieval-Augmented Generation (RAG) is revolutionizing the way we combine information retrieval with generative AI. This repository showcases a curated collection of advanced techniques designed to supercharge your RAG systems, enabling them to deliver more accurate, contextually relevant, and comprehensive responses.
+Retrieval-augmented generation (RAG) is revolutionizing how we combine information retrieval with generative AI. This repository showcases a curated collection of advanced techniques designed to supercharge your RAG systems, enabling them to deliver more accurate, contextually relevant, and comprehensive responses.
 
 Our goal is to provide a valuable resource for researchers and practitioners looking to push the boundaries of what's possible with RAG. By fostering a collaborative environment, we aim to accelerate innovation in this exciting field.
 
@@ -48,7 +44,7 @@ Our goal is to provide a valuable resource for researchers and practitioners loo
 
 **[RAG Techniques Discord Community](https://discord.gg/cA6Aa4uyDX)**
 
-Whether you're an expert or just starting out, your insights can shape the future of RAG. Join us to propose ideas, get feedback, and collaborate on innovative techniques. For contribution guidelines, please refer to our **[CONTRIBUTING.md](https://github.com/NirDiamant/RAG_Techniques/blob/main/CONTRIBUTING.md)** file. Let's advance RAG technology together!
+Whether you're an expert or just starting, your insights can shape the future of RAG. Join us to propose ideas, get feedback, and collaborate on innovative techniques. Please refer to our **[CONTRIBUTING.md](https://github.com/NirDiamant/RAG_Techniques/blob/main/CONTRIBUTING.md)** file for contribution guidelines. Let's advance RAG technology together!
 
 🔗 For discussions on GenAI, RAG, or custom agents, or to explore knowledge-sharing opportunities, feel free to **[connect on LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/)**.
 
@@ -401,22 +397,6 @@ Explore the extensive list of cutting-edge RAG techniques:
 
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
-
-
-
-## Getting Started
-
-To begin implementing these advanced RAG techniques in your projects:
-
-1. Clone this repository:
-   ```
-   git clone https://github.com/NirDiamant/RAG_Techniques.git
-   ```
-2. Navigate to the technique you're interested in:
-   ```
-   cd all_rag_techniques/technique-name
-   ```
-3. Follow the detailed implementation guide in each technique's directory.
 
 ## Contributing
 

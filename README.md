@@ -5,11 +5,11 @@
 
 * 🔭 A **Lead AI ML Solution Architect)** at [HCLTECH](https://www.hcltech.com/)
 
-  - 🌱 Engaged in bringing top notch AI ML Business applications in Domains (E-commerce, Health science, Fintech).
+  - 🌱 Engaged in bringing top-notch AI ML Business applications in Domains (E-commerce, Health Science, Fintech).
 
   - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
   
-  - 👯 I’m a collaborator in `keras`, `tensorflow` and looking for more collaboration.
+  - 👯 I’m a collaborator in AI Solution building and looking for more collaboration.
   
   - 🥅 2025 Goals: Deliver More solutions across Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
@@ -65,7 +65,7 @@ Welcome to one of the most comprehensive and dynamic collections of Retrieval-Au
 <p align="left">
 <a href="https://linkedin.com/in/ashokkumili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashokkumili" height="30" width="40" /></a>
 <a href="https://medium.com/@ashokbabu.architect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashokbabu.architect" height="30" width="40" /></a>
-<a href="/https://www.tiksys.ai/tiksys-blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.tiksys.ai/tiksys-blog" height="30" width="40" /></a>
+<a href="/https://www.tiksys.ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.tiksys.ai/" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:

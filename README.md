@@ -5,11 +5,11 @@
 
 * 🔭 A **Lead AI ML Solution Architect)** at [HCLTECH](https://www.hcltech.com/)
 
-  - 🌱 Engaged in bringing top notch AI ML Business applications in Domains (E-commerce, Health science, Fintech).
+  - 🌱 Engaged in bringing top-notch AI ML Business applications in Domains (E-commerce, Health Science, Fintech).
 
   - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
   
-  - 👯 I’m a collaborator in `keras`, `tensorflow` and looking for more collaboration.
+  - 👯 I’m a collaborator in AI Solution building and looking for more collaboration.
   
   - 🥅 2025 Goals: Deliver More solutions across Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 

@@ -20,7 +20,6 @@
 Welcome to one of the most comprehensive and dynamic collections of Retrieval-Augmented Generation (RAG) tutorials available today. This repository serves as a hub for cutting-edge techniques to enhance the accuracy, efficiency, and contextual richness of RAG systems.
 
 
-
    ## ⚡ Technologies I use 
 
 <div align="center">

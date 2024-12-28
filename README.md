@@ -100,7 +100,7 @@ Explore the extensive list of cutting-edge RAG techniques:
 ### 🌱 Foundational RAG Techniques
 
 1. Simple RAG 🌱
-   - **[LangChain](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/simple_rag.ipynb)**
+   - **[LangChain](https://github.com/analyticsworld1/RAG_Techniques2025-main/blob/main/all_rag_techniques/simple_csv_rag.ipynb)**
    - **[LlamaIndex](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/simple_rag_with_llamaindex.ipynb)**
    - **[Runnable Script](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques_runnable_scripts/simple_rag.py)**
 
@@ -111,7 +111,7 @@ Explore the extensive list of cutting-edge RAG techniques:
    Start with basic retrieval queries and integrate incremental learning mechanisms.
 
 2. Simple RAG using a CSV file 🧩
-   - **[LangChain](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/simple_csv_rag.ipynb)**
+   - **[LangChain](https://github.com/analyticsworld1/RAG_Techniques2025-main/blob/main/all_rag_techniques/simple_csv_rag.ipynb)**
    - **[LlamaIndex](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/simple_csv_rag_with_llamaindex.ipynb)**
    
     #### Overview 🔎
@@ -120,7 +120,7 @@ Explore the extensive list of cutting-edge RAG techniques:
     #### Implementation 🛠️
     This uses CSV files to create basic retrieval and integrates with openai to create question and answering system.
 
-3. **[Reliable RAG 🏷️](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/reliable_rag.ipynb)**
+3. **[Reliable RAG 🏷️](https://github.com/analyticsworld1/RAG_Techniques2025-main/blob/main/all_rag_techniques/reliable_rag.ipynb)**
 
    #### Overview 🔎
    Enhances the Simple RAG by adding validation and refinement to ensure the accuracy and relevance of retrieved information.
@@ -138,7 +138,7 @@ Explore the extensive list of cutting-edge RAG techniques:
    #### Implementation 🛠️
    Experiment with different chunk sizes to find the optimal balance between preserving context and maintaining retrieval speed for your specific use case.
 
-5. **[Proposition Chunking ⛓️‍💥](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/proposition_chunking.ipynb)**
+5. **[Proposition Chunking ⛓️‍💥](https://github.com/analyticsworld1/RAG_Techniques2025-main/blob/main/all_rag_techniques/proposition_chunking.ipynb)**
 
    #### Overview 🔎
    Breaking down the text into concise, complete, meaningful sentences allowing for better control and handling of specific queries (especially extracting knowledge).

@@ -7,7 +7,7 @@
 
   - 🌱 Engaged in bringing top-notch AI ML Business applications in Domains (E-commerce, Health Science, Fintech).
 
-  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
+  - 📚 I have reviewed more than **25+ Technical books, Manning and Springer nature**.
   
   - 👯 I’m a collaborator in AI Solution building and looking for more collaboration.
   

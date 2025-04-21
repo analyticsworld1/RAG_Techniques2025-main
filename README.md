@@ -1,7 +1,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashokkumili/)]
 
-## I'm an Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner
+## I'm an Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner.
 
 * 🔭 A **Lead AI ML Solution Architect)** at [HCLTECH](https://www.hcltech.com/)
 
